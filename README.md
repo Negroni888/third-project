@@ -8,3 +8,6 @@ rm Удаление файла
 git remote add origin https://github.com/Negroni888/third-project.git Связать репозитории на ПК с GitHub
 git remote -v Убедиться что репозитории связаны
 git push отправить изменения на удалённый репозиторий
+
+# Как добавить изменения в GitHub
+cd *имя файла*
